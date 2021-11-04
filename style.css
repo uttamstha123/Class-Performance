@@ -115,7 +115,7 @@ img {
   color: var(--bg-clr);
 }
 .ctns .join {
-  font-size: 1.8rem;
+  font-size: 2rem;
   color: var(--white-900);
   background: var(--bg-clr);
   border-radius: 6px;
