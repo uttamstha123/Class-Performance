@@ -65,6 +65,7 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  padding: 1em 0;
 }
 .logo-wrapper {
   display: flex;
@@ -81,7 +82,7 @@ img {
   letter-spacing: 0.75px;
 }
 .sub-heading h2 {
-  margin-top: 10em;
+  margin-top: 70%;
   font-family: var(--ff-subheading);
   font-size: 2.2rem;
   font-weight: 300;
